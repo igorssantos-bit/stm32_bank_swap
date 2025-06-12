@@ -117,7 +117,7 @@ void Main_Menu(void) {
 					printf("Exiting Main Menu...\r\n\r\n");
 					return;
 				}else{
-					printf("Invalid Number ! ==> The number should be either 1, 2, 3 or 4\r\n");
+					printf("Invalid Number ! ==> The number should be either 1 or 2\r\n");
 				}
 			}
 		}
